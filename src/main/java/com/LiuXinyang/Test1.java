@@ -9,5 +9,6 @@ public class Test1 {
         System.out.println("hot-fix test!");
         System.out.println("master Try on!");
         System.out.println("hot-fix Try on!");
+        System.out.println("pull commit!");
     }
 }
