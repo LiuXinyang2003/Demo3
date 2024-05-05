@@ -7,5 +7,6 @@ public class Test1 {
         System.out.println("This is a test3!");
         System.out.println("This is a test4!");
         System.out.println("hot-fix test!");
+        System.out.println("master Try on!");
     }
 }
